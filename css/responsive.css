@@ -1,0 +1,669 @@
+@media (max-width: 767px) {
+
+header .menu-part {
+    background: none;
+    margin-top: 0;
+    position: absolute;
+    top: 6px;
+    right: 0px;
+    width: auto;
+}
+.slim-container .slim-bar {
+    background: none !important;
+}
+/*.slim-container a.slimNav_sk78-reveal span {
+    background: #111 !important;
+}
+a.slimNav_sk78-reveal.slimclose {
+    color: #111 !important;
+}*/
+.slim-container .slim-nav {
+    background: #111 !important;
+    overflow: hidden;
+}
+.slim-container .slim-nav ul li a.slim-expand {
+    height: 27px !important;
+    font-size: 29px !important;
+    font-weight: 500 !important;
+    line-height: 29px;
+    z-index: 99999999 !important;
+}
+header .header_rihgt ul li a{
+    font-size: 14px;
+    line-height: 36px;
+}
+header .header_rihgt ul li a.join{
+    padding: 0 10px;
+    margin-right: 30px;
+}
+header .header_rihgt {
+    text-align: right;
+    width: 100%;
+    padding-top: 21px;
+}
+header .menu-part ul li a {
+    font-size: 14px;
+    line-height: 16px;
+    padding: 0 20px;
+    display: block;
+}
+header .header_top {
+    padding: 10px 0;
+    text-align: center;
+}
+header .header_top ul.ht_info li {
+    display: block;
+    margin-right: 0;
+}
+header .header_top ul.social {
+    text-align: center;
+}
+header .header_top ul.social li {
+    display: inline-block;
+    margin: 4px 7px 0;
+}
+header .header_mid {
+    padding: 5px 0;
+}
+.logo_con{
+    width: 160px;
+    z-index: 9999;
+}
+.header_mid .col-lg-10{
+   margin-top: -67px;
+}
+header{
+    position: relative;
+    background: #000;
+}
+.main_slider {
+    padding-top: 0;
+}
+.main_slider .ban_over{
+    padding: 20%;
+}
+.welcome_area .wel_pic_con1:before {
+    top: -40px;
+    left: -15px;
+}
+.welcome_area {
+    padding: 40px 0;
+}
+h2.title {
+    font-size: 24px;
+    margin: 30px 0 15px !important;
+}
+.welcome_area .welcome_right p {
+    font-size: 14px;
+    line-height: 22px;
+}
+a.rom_but {
+    padding: 12px 20px;
+}
+.up_event {
+    padding: 40px 0;
+}
+h2.title2 {
+    font-size: 28px;
+    margin: 0 0 25px;
+}
+.up_event .up_event_con .up_event_info {
+    padding: 15px;
+}
+.up_event .up_event_con h3{
+    font-size: 16px;
+}
+a.rom_but2 {
+    padding: 12px 20px;
+}
+.past_event {
+    padding: 30px 0;
+}
+.past_event .up_event_con .past_eve_pic {
+    min-height: 250px;
+}
+.offer_area {
+    padding: 30px 0;
+}
+.offer_area ul.tab li {
+    padding: 20px;
+    border: solid 1px #bababa;
+    display: inline-block;
+    margin: 0 0 15px 0;
+    width: 100%;
+}
+.offer_area ul.tab li h3 {
+    font-size: 20px;
+}
+.offer_area ul.tab li h3 img {
+    margin-right: 15px;
+    height: 40px;
+}
+.latest_area {
+    padding: 30px 0;
+}
+.latest_area p {
+    font-size: 16px;
+    line-height: 26px;
+    margin-bottom: 10px;
+}
+.latest_story {
+    padding: 0 15px 15px;
+}
+.sub_area {
+    padding: 30px 0;
+}
+.sub_area .sub_pic_con1 {
+    width: 50%;
+}
+.sub_area .sub_pic_con2 {
+    width: 49%;
+}
+.sub_area .sub_right h2 {
+    font-size: 28px;
+    line-height: 40px;
+    margin: 10px 0;
+}
+.sub_area .sub_right p {
+    font-size: 14px;
+    line-height: 26px;
+    margin-bottom: 20px;
+}
+.sub_area .sub_right form {
+    padding-top: 10px;
+}
+.sponsor_area {
+    padding: 30px 0 80px;
+}
+.sponsor_area img{
+    margin: 10px 0;
+}
+footer .foot_logo_con {
+    padding: 20px;
+    background: #000;
+    width: 100%;
+    margin-top: -100px;
+    margin-bottom: 20px;
+}
+footer h2{
+    margin: 0 0 10px;
+}
+footer ul.add_con li {
+    line-height: 22px;
+    margin-bottom: 15px;
+}
+footer .foot_bottom{
+    padding: 15px 0;
+}
+.offer_area .tabcontent:after{
+    right: -15px;
+}
+.inner_ban {
+    padding-top: 0;
+}
+.inner_ban .inner_ban_text h2 {
+    font-size: 20px;
+}
+.inner_ban .inner_ban_text{
+    top: 0;
+}
+.inner_ban .inner_ban_text ul li {
+    font-size: 13px;
+}
+.abt_welcome .abt_welcome_right {
+    padding-left: 15px;
+}
+.inner_ban .inner_ban_text ul {
+    margin: 0px auto 0;
+}
+.welcome_area .wel_pic_con1 {
+    padding-bottom: 100px;
+}
+.abt_welcome h2 {
+    padding-top: 0;
+    margin: 0 0 15px !important;
+}
+.abt_info_area .abt_odd_pic_right {
+    padding-left: 15px;
+    width: 55%;
+}
+.abt_info_area .abt_odd_pic_right h2 {
+    font-size: 36px;
+    line-height: 50px;
+    padding-left: 4px;
+    padding-right: 4px;
+}
+.abt_info_area .abt_odd_pic_right .abt_lis_count {
+    width: 100px;
+}
+.abt_info_area .abt_odd_pic_right .abt_list_hold h5 {
+    padding-left: 10px;
+    font-size: 13px;
+}
+.abt_info_area .abt_odd_info_con h3 {
+    font-size: 22px;
+    margin: 20px 0 10px;
+}
+.abt_info_area .abt_odd_info_con p {
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 300;
+    color: #fff;
+}
+.abt_info_area .even .abt_even_pic_hold {
+    order: 1;
+}
+.abt_info_area {
+    padding-bottom: 80px;
+}
+footer p {
+    line-height: 22px;
+}
+.con_top_info .con_top_con {
+    padding: 10px 20px;
+    display: block;
+    width: 80%;
+    margin: 25px auto 50px;
+}
+.con_top_info .con_top_con .con_top_info_right {
+    padding: 15px 0 0;
+}
+.con_top_info .con_top_con h2 {
+    font-size: 20px;
+    margin: 0 0 10px;
+}
+.con_top_info .con_top_con{
+    width: 90%;
+}
+.con_top_info .con_main_info {
+    padding: 30px 20px;
+    margin: 10px 0;
+}
+.con_top_info .con_main_info i {
+    font-size: 35px;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    margin-bottom: 0px;
+}
+.con_top_info .con_main_info h3 {
+    font-size: 20px;
+}
+.con_top_info .con_main_info ul li {
+    font-size: 14px;
+    line-height: 22px;
+}
+.con_top_info {
+    padding-bottom: 30px;
+}
+.faq_area .panel p {
+    margin-bottom: 15px;
+    line-height: 20px;
+    margin-top: 0;
+}
+.faq_area {
+    padding: 30px 0 70px;
+}
+.sidebar .let_news .let_news_con h4 {
+    font-size: 15px;
+    line-height: 20px;
+    margin: 0 0 10px;
+}
+.faq_area button.accordion:after {
+     float: none;
+    position: absolute;
+    right: 15px;
+    top: 15px;
+}
+.faq_area .accordion{
+    position: relative;
+}
+.division_area .division_left .divi_con_info{
+    display: block;
+}
+.division_area .division_left .divi_con_info h3 {
+    width: 100%;
+}
+.division_area .division_left .divi_con_info a {
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+.division_area .division_left .divi_con_info a:last-child {
+    width: 100%;
+}
+.division_area .division_left .age_cat .age_cat_left {
+    width: 100%;
+    padding-right: 0;
+    margin-bottom: 20px;
+}
+.division_area .division_left .age_cat .age_cat_right{
+    width: 100%;
+}
+.division_area .division_left .age_cat h3 {
+    margin: 15px 0 15px;
+    min-height: 0;
+}
+.division_area .division_left .age_cat ul li {
+    margin: 0 0 12px;
+}
+.division_area .rules_con {
+    padding: 20px 20px 15px;
+    margin-bottom: 25px;
+}
+.division_area .rules_con p {
+    font-size: 14px;
+    line-height: 24px;
+    margin-bottom: 15px;
+}
+.division_area {
+    padding: 40px 0 80px;
+}
+.team_info {
+    padding: 0 0 0 !important;
+}
+.team_con .team_pic .team_pic_info {
+    bottom: -60px;
+    padding: 20px 15px;
+}
+.team_con .team_pic {
+    margin-bottom: 80px;
+}
+.team_con {
+    padding: 0 0 70px;
+}
+.inner_ban .inner_ban_text ul li span {
+    margin: 0 5px;
+}
+}
+
+
+@media (min-width: 768px) and (max-width: 991px) {
+header{
+    padding: 15px 0;
+}
+header .menu-part {
+    background: none;
+    margin-top: 0;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: auto;
+}
+.slim-container .slim-bar {
+    background: none !important;
+}
+
+.slim-container .slim-nav {
+    background: none !important;
+    overflow: hidden;
+}
+.slim-container .slim-nav ul li a.slim-expand {
+    height: 27px !important;
+    font-size: 29px !important;
+    font-weight: 500 !important;
+    line-height: 29px;
+    z-index: 99999999 !important;
+}
+.slim-container a.slimNav_sk78-reveal span {
+    background: #fff !important;
+}
+a.slimNav_sk78-reveal.slimclose {
+    color: #fff !important;
+}
+.slim-container .slim-nav {
+    background: #111 !important;
+    overflow: hidden;
+}
+header .header_top {
+    padding: 12px 0;
+}
+header .header_mid {
+    padding: 5px 0;
+}
+header .header_rihgt {
+    margin-right: 50px;
+}
+.main_slider .ban_over{
+    padding: 20%;
+}
+.slim-container .slim-nav ul li a{
+        width: 96%;
+    padding: 6px 2%;
+}
+h2.title, h2.title2{
+    font-size: 34px;
+}
+.offer_area {
+    padding: 50px 0px;
+}
+.offer_area ul.tab li {
+    padding: 15px;
+}
+.offer_area ul.tab li h3{
+    font-size: 20px;
+}
+.offer_area ul.tab li h3 img {
+    margin-bottom: 7px;
+    display: block;
+}
+.offer_area ul.tab li p {
+    line-height: 22px;
+    margin: 0;
+}
+.latest_area p {
+    font-size: 16px;
+    line-height: 24px;
+}
+.sub_area .sub_pic_con1{
+    width: 50%;
+}
+.sub_area .sub_pic_con2{
+    width: 48%;
+}
+.sub_area .sub_right h2 {
+    font-size: 34px;
+    line-height: 46px;
+    margin: 10px 0 10px;
+}
+.sub_area .sub_right form {
+    padding-top: 20px;
+}
+footer .foot_logo_con {
+    padding: 20px;
+    width: 100%;
+    margin-top: -100px;
+}
+footer p {
+    line-height: 24px;
+}
+footer .foot_news li p {
+    line-height: 20px;
+}
+footer .foot_bottom {
+    padding: 30px 0;
+}
+footer .foot_info {
+    padding-bottom: 30px;
+}
+.offer_area .tabcontent:after{
+    right: -15px;
+}
+.inner_ban .inner_ban_text {
+    height: 80%;
+    top: 72px;
+}
+.inner_ban .inner_ban_text h2{
+    font-size: 40px;
+    margin-top: 25px;
+}
+.abt_welcome h2 {
+    padding-top: 10px;
+    margin-bottom: 20px;
+}
+.abt_welcome .abt_welcome_right {
+    padding-left: 15px;
+}
+.welcome_area .wel_pic_con1 {
+    padding-bottom: 10px;
+}
+.abt_info_area .abt_odd_pic_right {
+    width: 50%;
+}
+.abt_info_area .abt_odd_pic_right h2 {
+    font-size: 40px;
+    line-height: 68px;
+    padding-left: 5px;
+    padding-right: 12px;
+}
+.abt_info_area .abt_odd_info_con p {
+    font-size: 14px;
+    line-height: 20px;
+}
+.abt_info_area .abt_odd_info_con h3 {
+    font-size: 34px;
+    margin: 0 0 10px;
+}
+.abt_info_area .odd{
+    margin-bottom: 25px;
+}
+.abt_info_area .even{
+    margin-bottom: 25px;
+}
+.abt_info_area .abt_odd_pic_right .abt_list_hold h5 {
+    padding-left: 10px;
+    font-size: 14px;
+}
+.welcome_area .welcome_right p {
+    font-size: 14px;
+    line-height: 22px;
+}
+.con_top_info .con_top_con {
+    padding: 5px 50px;
+    width: 100%;
+    margin: 35px auto 80px;
+}
+.con_top_info .con_top_con h2 {
+    font-size: 30px;
+    margin: 0 0 20px;
+}
+.con_top_info .con_main_info {
+    padding: 30px 15px;
+}
+.con_top_info .con_main_info i {
+    font-size: 40px;
+    width: 80px;
+    height: 80px;
+    line-height: 80px;
+    margin-bottom: 0;
+}
+.con_top_info .con_main_info ul li {
+    font-size: 14px;
+    line-height: 22px;
+}
+.sidebar .let_news {
+    padding: 25px 15px 10px;
+}
+.sidebar .let_news .let_news_con {
+    padding-left: 0;
+    margin-bottom: 20px;
+}
+.sidebar .let_news .let_news_con img {
+    width: 100%;
+    height: 90px;
+    position: relative;
+    margin-bottom: 10px;
+}
+.sidebar .faq_sub_box {
+    padding: 20px;
+}
+.faq_area {
+    padding: 50px 0 100px;
+}
+.division_area {
+    padding: 50px 0 100px;
+}
+.division_area .division_left .divi_con_info{
+    display: block;
+}
+.division_area .division_left .divi_con_info h3 {
+    width: 100%;
+}
+.division_area .division_left .divi_con_info a {
+    margin-left: 0;
+    margin-bottom: 10px;
+}
+.division_area .division_left .divi_con_info a:last-child {
+    width: 100%;
+}
+.division_area .division_left .age_cat .age_cat_left {
+    width: 100%;
+    padding-right: 0;
+    margin-bottom: 20px;
+}
+.division_area .division_left .age_cat .age_cat_right{
+    width: 100%;
+}
+.division_area .division_left .age_cat h3 {
+    margin: 15px 0 15px;
+    min-height: 0;
+}
+.division_area .division_left .age_cat ul li {
+    margin: 0 0 12px;
+}
+.team_con .team_pic .team_pic_info {
+    bottom: -40px;
+    padding: 10px;
+    width: 100%;
+}
+.team_con .team_pic .team_pic_info h5 {
+    margin: 6px 0 0;
+    padding-top: 0;
+}
+.team_con .team_pic {
+    margin-bottom: 70px;
+}
+.welcome_area {
+    padding: 50px 0;
+}
+.team_con {
+    padding: 0 0 100px;
+}
+}
+
+@media (min-width: 992px) and (max-width: 1199px) {
+header .menu-part ul li a {
+    font-size: 14px;
+    padding: 0 7px;
+}
+header .menu-part {
+    padding-top: 5px;
+}
+header .header_rihgt {
+    padding-top: 5px;
+}
+.sub_area .sub_pic_con1 {
+    width: 50%;
+}
+.sub_area .sub_pic_con2 {
+    width: 49%;
+}
+.welcome_area .wel_pic_con1 {
+    padding-bottom: 20px;
+}
+.abt_info_area .odd{
+    margin-bottom: 25px;
+}
+.abt_info_area .even{
+    margin-bottom: 25px;
+}
+.inner_ban .inner_ban_text h2{
+    font-size: 50px;
+}
+.con_top_info .con_top_con {
+    width: 90%;
+    margin: -20px auto 80px;
+}
+.division_area .division_left .age_cat .age_cat_left {
+    vertical-align: top;
+}
+}
